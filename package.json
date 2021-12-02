@@ -1,0 +1,22 @@
+{
+  "name": "denemeone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loperia2/NodeJs.git"
+  },
+  "author": "Güney Yiğitbaş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loperia2/NodeJs/issues"
+  },
+  "homepage": "https://github.com/loperia2/NodeJs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
