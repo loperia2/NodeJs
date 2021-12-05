@@ -1,1 +1,1 @@
-require('./setInterval')
+require('./asyncPatterns.js')
