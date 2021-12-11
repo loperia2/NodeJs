@@ -1,1 +1,1 @@
-require('./eventEmitter.js')
+require('./stream.js')
