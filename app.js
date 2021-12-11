@@ -1,1 +1,1 @@
-require('./asyncPatterns.js')
+require('./eventEmitter.js')
