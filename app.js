@@ -1,1 +1,11 @@
-require('./stream.js')
+
+
+
+const fileName = 'stream2'
+
+
+
+
+
+
+require(`./${fileName}.js`)
